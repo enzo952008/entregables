@@ -1,0 +1,16 @@
+{
+  "name": "ejem",
+  "version": "1.0.0",
+  "description": "descripcion del paquete",
+  "main": "index.js",
+  "scripts": {
+    "nombre-tarea": "node ejem.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enzo",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-art": "^2.8.5",
+    "readline-sync": "^1.4.10"
+  }
+}
